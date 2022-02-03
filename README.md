@@ -27,7 +27,6 @@ Projeto desenvolvido durante a semana 18 do curso de Fullstack da Labenu.
 As seguintes tecnologias foram usadas na construção do projeto:
 - [Node JS]
 - [Typescript]
-- [SQL]
 - [MySQL]
 - [POSTMAN]
 
