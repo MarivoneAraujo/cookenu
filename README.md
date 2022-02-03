@@ -16,12 +16,7 @@ OBS: Há dois tipos de usuários criados.
 
 <h2 align="center">
 
-</h2>
-
-<h4 align='center'>
-👉 Status: Em andamento 
-</h4>
-<br />
+</h2
 
 ## 📚📰 Documentação no Postman
 https://documenter.getpostman.com/view/14148928/TzCV2Pch
